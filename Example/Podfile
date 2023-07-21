@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PXHydra_Tests' do
+  pod 'PXHydra', :path => '../'
+  
+  
+end
